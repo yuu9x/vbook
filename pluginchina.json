@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "author": "Yuu",
+    "description": ""
+  },
+  "data": [
+    {
+      "name": "yunxuange",
+      "author": "Yuu",
+      "path": "https://github.com/yuu9x/vbook/blob/main/Yun/plugin.json",
+      "version": 1,
+      "source": "https://www.yunxuange.org",
+      "icon": "https://raw.githubusercontent.com/yuu9x/vbook/main/Yun/icon.png",
+      "description": "Đọc truyện trên trang yunxuan.org"
+    }
+  ]
+}
